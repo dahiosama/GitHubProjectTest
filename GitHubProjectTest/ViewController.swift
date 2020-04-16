@@ -14,10 +14,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         loadData()
+        loadData1()
     }
     func loadData(){
         
     }
-
+    func loadData1(){
+        
+    }
 }
 
